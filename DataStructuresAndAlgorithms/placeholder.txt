@@ -1,0 +1,18 @@
+placeholder:
+
+TODO:
+
+- Big O
+
+- CS50
+- ZTM Master the Coding Interview: Data Structures and Algorithms
+
+- Free Code Camp: Data Structure Tutorial
+- Bro Code
+- Datastructures you must know
+
+Books:
+- Cracking the Coding Interview
+- Grokking Algorithms
+
+Basic Sorting Algorithms
