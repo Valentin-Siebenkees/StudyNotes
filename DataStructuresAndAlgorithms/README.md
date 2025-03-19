@@ -48,6 +48,6 @@ Here’s an overview of the topics I’ve been studying:
 ---
 
 ## How to Use This Folder
-- Each topic has its own subfolder (e.g., `**[Big O Notation](BigO/)**`, `DataStructures/`).
+- Each topic has its own subfolder (e.g., [Big O Notation](BigO/), [Data Structures](DataStructures/)).
 - Inside each subfolder, you’ll find detailed notes, implementations, and explanations.
 - Feel free to explore and use these resources for your own learning!
