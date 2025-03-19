@@ -8,7 +8,7 @@ This folder contains my study notes, implementations, and resources for learning
 ## Topics Covered
 Here’s an overview of the topics I’ve been studying:
 
-1. **[Big O Notation](BigO/):** Understanding time and space complexity.
+1. **[Big O](BigO/):** Understanding time and space complexity.
 2. **[Data Structures](DataStructures/):** Implementing and analyzing common data structures.
 3. **[Sorting Algorithms](SortingAlgorithms/):** Notes and implementations of sorting algorithms.
 4. **[Searching Algorithms](SearchingAlgorithms/):** Notes and implementations of searching algorithms.
@@ -48,6 +48,6 @@ Here’s an overview of the topics I’ve been studying:
 ---
 
 ## How to Use This Folder
-- Each topic has its own subfolder (e.g., [Big O Notation](BigO/), [Data Structures](DataStructures/)).
+- Each topic has its own subfolder (e.g., [Big O](BigO/), [Data Structures](DataStructures/)).
 - Inside each subfolder, you’ll find detailed notes, implementations, and explanations.
 - Feel free to explore and use these resources for your own learning!
