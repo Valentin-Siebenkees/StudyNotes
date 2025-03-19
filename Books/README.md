@@ -8,7 +8,7 @@ This folder contains my notes, summaries, and key takeaways from the books I'm r
 Here’s a list of books I’ve been reading, along with links to their respective notes:
 
 1. **[Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin](CleanCode/):** A guide to writing clean, maintainable, and efficient code.
-2. **[The Pragmatic Programmer Pragmatic: Your journey to mastery by Andrew Hunt and David Thomas](ThePragmaticProgrammer/):** A classic book on software development best practices.
+2. **[The Pragmatic Programmer Pragmatic: Your journey to mastery by Andrew Hunt and David Thomas](ThePragmaticProgrammer/):** A book on software- development and engineering best practices.
 
 ---
 
