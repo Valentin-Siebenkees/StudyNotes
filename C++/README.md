@@ -10,7 +10,7 @@ For example when I have been confronted with time critical tasks which required 
 ## Approach
 I decided that the best way to learn and understand C++ in depth, is to revisit the basics and start from scratch.
 
-I’m using **[LearnCpp.com](https://www.learncpp.com/)** as my primary resource for learning the basics of C++. My C++ notes are also organized in Jupyter Notebooks, which you can find in the `StudyNotes/C++/Basics/Notebooks` folder.
+I’m using **[LearnCpp.com](https://www.learncpp.com/)** as my primary resource for learning the basics of C++. My C++ notes are also organized in Jupyter Notebooks, which you can find in the **[Basics/Notebooks](Basics/Notebooks/)** folder.
 
 You might wonder why someone would use jupyter notebooks for C++ code since that is counterintuitiv to the compile-run model nature of C++.
 However since my goal is mainly to combine explanations and code snippets in my notes, doing this with C++ kernel in a jupyter notebook seemed like a fitting solution, especially since I used jupyter notebooks in most of my other learning topics, like Python, Machine Learning, Data Structures and algorithms etc. and this keeps the consistency in my documentation.
