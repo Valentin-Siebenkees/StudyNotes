@@ -2,4 +2,4 @@ I started to work through LeetCode Problems in order to apply and test my knowle
 
 I am mainly using the [NeetCode Roadmap](https://neetcode.io/roadmap) to organize my LeetCode learning content.
 
-![Neet_Code_Roadmap](../Assets/NeetCode_Roadmap.png)
+![Neet_Code_Roadmap](./Assets/NeetCode_Roadmap.png)
