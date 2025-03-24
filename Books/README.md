@@ -11,7 +11,5 @@ Here’s a list of books I’ve been reading, along with links to their respecti
 2. **[The Pragmatic Programmer Pragmatic: Your journey to mastery by Andrew Hunt and David Thomas](ThePragmaticProgrammer/):** A book on software- development and engineering best practices.
 
 ---
-
-## How to Use This Folder
 - Each book has its own subfolder (e.g., `CleanCode/`, `ThePragmaticProgrammer/`).
 - Inside each subfolder, you’ll find detailed notes organized by chapter
