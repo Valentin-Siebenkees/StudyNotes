@@ -1,5 +1,5 @@
 # StudyNotes
-Repository to organize my notes for different topics I want to learn or improve in
+Repository to organize my notes for different topics I want to learn or improve in including:
 
 
 * [Python](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Python) – My go-to language for many tasks. I have a solid foundation but want to further improve and keep learning more advanced concepts.
