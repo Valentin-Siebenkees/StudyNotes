@@ -15,5 +15,7 @@ Repository to organize my notes for different topics I want to learn or improve 
 * [LeetCode](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/LeetCode) – Recently I started doing LeetCode Problems, to structure it I am mostly following the [NeetCode Roadmap](https://neetcode.io/roadmap)
   
 * [Optics](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Optics) – A topic I wanted to revisit, including the physics of light and design of optical systems
+
+* [Signal Processing](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Signal_Processing) – Some Signal Processing topics I learned in university, which I wanted to revisit (Signal Representation, Sampling & Quantization, Convolution, Transformations)
   
 * [Math](https://github.com/Valentin-Siebenkees/StudyNotes/tree/main/Math) – I also wanted to revisit some math concepts and go into detail when it comes to math concepts used in machine learning (Linear Algebra, Calculus, Statistics, Linear Models & Optimization)
