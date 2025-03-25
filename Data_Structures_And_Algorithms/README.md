@@ -6,7 +6,7 @@ This folder contains my study notes, implementations, and resources for learning
 ---
 
 ## Topics Covered
-Here’s an overview of the topics I’ve been studying:
+Here’s a starting structure and some ideas, this might change in the future:
 
 1. **[Big O](BigO/):** Understanding time and space complexity.
 2. **[Data Structures](DataStructures/):** Implementing and analyzing common data structures.
